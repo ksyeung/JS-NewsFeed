@@ -1,6 +1,3 @@
-# JS-NewsFeed
-Compact RSS reader for Cloudflare Workers
-
 This feed currently consists of the following:  
 https://securelist.com/feed/  
 https://modexp.wordpress.com/feed/  
